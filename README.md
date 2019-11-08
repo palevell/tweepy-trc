@@ -7,6 +7,6 @@ separately from programs that use them.
 ### Requirements
 1) Tweepy
 2) Either of the following Ruby gems:
-    a) t
-    b) twurl
+    - t
+    - twurl
 
