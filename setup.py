@@ -8,7 +8,7 @@ setup(
 	author='Patrick A. Levell',
 	author_email='palevell@gmx.com',
 
-	license='MIT License',
+	license='MIT',
 
 	long_description=open('README.md', 'rt').read(),
 	long_description_content_type='text/markdown',
