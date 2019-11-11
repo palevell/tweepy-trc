@@ -2,8 +2,10 @@ Changelog
 =========
 
 
-(unreleased)
-------------
+0.2.4 (2019-11-11)
+------------------
+- Bump version: 0.2.4-dev0 → 0.2.4. [Patrick A. Levell]
+- Updated CHANGELOG. [Patrick A. Levell]
 - Bump version: 0.2.3 → 0.2.4-dev0. [Patrick A. Levell]
 - Bump version: 0.2.3-dev1 → 0.2.3. [Patrick A. Levell]
 - Bump version: 0.2.3-dev0 → 0.2.3-dev1. [Patrick A. Levell]
