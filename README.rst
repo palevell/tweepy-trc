@@ -1,7 +1,7 @@
 tweepy-trc
 ==========
 
-:version: '0.2.3-dev1'
+.. :version: '0.2.3-dev1'
 
 .. contents:: **Table of Contents**
     :backlinks: none
@@ -15,8 +15,8 @@ separately from programs that use them.
 Prerequisites
 -------------
 
-- Tweepy
-- Either of the following Ruby gems:
+* Tweepy
+* Either of the following Ruby gems:
     - t https://github.com/sferik/t
     - twurl https://github.com/twitter/twurl
 
@@ -25,8 +25,8 @@ Installation
 ------------
 
 tweepy-trc is distributed on `PyPI <https://pypi.org>`_ as a universal
-wheel and is available on Linux/macOS and Windows and supports
-Python 2.6+.
+wheel, is available on Linux/macOS and Windows, and supports
+Python 3.6+.
 
 .. code-block:: bash
 
