@@ -1,7 +1,7 @@
 tweepy-trc
 ==========
 
-:version: '0.2.2-dev6'
+:version: '0.2.2-dev7'
 
 .. contents:: **Table of Contents**
     :backlinks: none
