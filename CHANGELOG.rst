@@ -2,6 +2,42 @@ Changelog
 =========
 
 
+(unreleased)
+------------
+- Bump version: 0.2.3 → 0.2.4-dev0. [Patrick A. Levell]
+- Bump version: 0.2.3-dev1 → 0.2.3. [Patrick A. Levell]
+- Bump version: 0.2.3-dev0 → 0.2.3-dev1. [Patrick A. Levell]
+- Bump version: 0.2.2 → 0.2.3-dev0. [Patrick A. Levell]
+
+
+0.2.2 (2019-11-11)
+------------------
+- Bump version: 0.2.2-dev7 → 0.2.2. [Patrick A. Levell]
+- Bump version: 0.2.2-dev6 → 0.2.2-dev7. [Patrick A. Levell]
+- Bump version: 0.2.2-dev5 → 0.2.2-dev6. [Patrick A. Levell]
+- Bump version: 0.2.2-dev4 → 0.2.2-dev5. [Patrick A. Levell]
+- Bump version: 0.2.2-dev3 → 0.2.2-dev4. [Patrick A. Levell]
+- Bump version: 0.2.2-dev2 → 0.2.2-dev3. [Patrick A. Levell]
+- Bump version: 0.2.2-dev1 → 0.2.2-dev2. [Patrick A. Levell]
+- Bump version: 0.2.2-dev0 → 0.2.2-dev1. [Patrick A. Levell]
+- Bump version: 0.2.1-dev7 → 0.2.2-dev0. [Patrick A. Levell]
+- Bump version: 0.2.1-dev6 → 0.2.1-dev7. [Patrick A. Levell]
+- Dev: streamlining uploads to TestPyPI. [Patrick A. Levell]
+- Bump version: 0.3.1-dev5 → 0.3.1-dev6. [Patrick A. Levell]
+- Bump version: 0.3.1-dev4 → 0.3.1-dev5. [Patrick A. Levell]
+- Bump version: 0.3.1-dev3 → 0.3.1-dev4. [Patrick A. Levell]
+- Bump version: 0.3.1-dev2 → 0.3.1-dev3. [Patrick A. Levell]
+- Bump version: 0.3.1-dev1 → 0.3.1-dev2. [Patrick A. Levell]
+- Bump version: 0.3.1-dev0 → 0.3.1-dev1. [Patrick A. Levell]
+- Bump version: 0.3.0-dev0 → 0.3.1-dev0. [Patrick A. Levell]
+- Bump version: 0.2.0-dev5 → 0.3.0-dev0. [Patrick A. Levell]
+- Bump version: 0.2.0-dev4 → 0.2.0-dev5. [Patrick A. Levell]
+- Bump version: 0.2.0-dev3 → 0.2.0-dev4. [Patrick A. Levell]
+- Bump version: 0.2.0-dev2 → 0.2.0-dev3. [Patrick A. Levell]
+- Bug: dev: setup.py with __version__.py failed. [Patrick A. Levell]
+- Bump version: 0.2.0-dev1 → 0.2.0-dev2. [Patrick A. Levell]
+
+
 0.2.0 (2019-11-11)
 ------------------
 - Bump version: 0.2.0-dev0 → 0.2.0-dev1. [Patrick A. Levell]
