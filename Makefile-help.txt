@@ -1,7 +1,9 @@
 Project Tasks
+	clean-dist: Remove build files (ie. dist/* build/* *egg-info)
 	docs:       Build documentation (ie. Sphinx)
 	publish:    Build distribution package(s) and upload (ie. to PyPi)
 	testpypi:   Build distribution package(s) and upload to test site (ie. TestPyPi)
+
 
 Source Code Management
 	get/dryget:     Rsync from main server

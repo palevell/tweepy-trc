@@ -56,7 +56,7 @@ publish:
 	twine upload dist/*
 	rm -fr build/* dist/*  *.egg-info
 
-clean-build:
+clean-dist:
 	rm -fr build/* dist/*  *.egg-info
 
 docs:

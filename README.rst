@@ -1,7 +1,7 @@
 tweepy-trc
 ==========
 
-:version: '0.3.1-dev6'
+:version: '0.2.1-dev6'
 
 .. contents:: **Table of Contents**
     :backlinks: none
@@ -26,7 +26,7 @@ Installation
 
 tweepy-trc is distributed on `PyPI <https://pypi.org>`_ as a universal
 wheel and is available on Linux/macOS and Windows and supports
-Python 3.6+.
+Python 2.6+.
 
 .. code-block:: bash
 
