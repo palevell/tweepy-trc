@@ -25,7 +25,7 @@ requires = ['tweepy>=3.5.0']
 
 # Load the package's __version__.py module as a dictionary.
 about = {}
-with open(os.path.join('requests', '__version__.py'), 'rt') as f:
+with open(os.path.join('tweepy_trc', '__version__.py'), 'rt') as f:
 	exec(f.read(), about)
 with open('README.rst', 'rt') as f:
 	readme = f.read()
@@ -40,7 +40,8 @@ setup(
 	long_description_content_type='text/markdown',
 	author=about['__author__'],
 	author_email=about['__author_email__'],
-	url=about['__url__'],
+	# url=about['__url__'],
+	url='https://github.com/palevell/tweepy-trc',
 	# packages=packages,
 	packages=find_packages(),
 	license=about['__license__'],
