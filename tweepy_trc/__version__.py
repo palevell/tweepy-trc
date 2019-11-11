@@ -3,7 +3,7 @@
 __title__ = 'tweepy-trc'
 __description__ = 'Integrates .trc / .twurlrc credentials into Tweepy'
 __url__ = 'https://github.com/palevell/tweepy-trc'
-__version__ = '0.2.2-dev2'
+__version__ = '0.2.2-dev3'
 __build__ = 0x001000
 __author__ = 'Patrick A. Levell'
 __author_email__ = 'patrick29501@gmx.com'
