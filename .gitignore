@@ -16,10 +16,11 @@ __pycache__
 # Python egg metadata, regenerated from source files by setuptools.
 /*.egg-info
 
-# Firefox automation
-geckodriver.log
-
 # HTML Test Runner
 /tests/reports/
 
-Makefile
+/docs/_build
+
+Makefile-requests
+reqests-setup.py
+setup1.py
