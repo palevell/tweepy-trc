@@ -27,10 +27,9 @@ requires = ['tweepy>=3.5.0']
 about = {}
 with open(os.path.join('requests', '__version__.py'), 'rt') as f:
 	exec(f.read(), about)
-with open('README.md', 'rt') as f:
+with open('README.rst', 'rt') as f:
 	readme = f.read()
-# ToDo: Change this to CHANGELOG?
-with open('HISTORY.md', 'rt') as f:
+with open('CHANGELOG.rst', 'rt') as f:
 	history = f.read()
 
 setup(

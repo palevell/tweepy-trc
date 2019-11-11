@@ -15,8 +15,8 @@ separately from programs that use them.
 Prerequisites
 -------------
 
-1) Tweepy
-2) Either of the following Ruby gems:
+- Tweepy
+- Either of the following Ruby gems:
     - t https://github.com/sferik/t
     - twurl https://github.com/twitter/twurl
 
