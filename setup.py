@@ -4,6 +4,8 @@
 import os
 import sys
 from setuptools import setup, find_packages
+# Ref: https://github.com/pypa/setuptools/issues/308
+import setupnovernormalize
 
 # 'setup.py publish' shortcut.
 if sys.argv[-1] == 'publish':
