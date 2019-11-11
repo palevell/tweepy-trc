@@ -1,0 +1,14 @@
+Project Tasks
+	docs:       Build documentation (ie. Sphinx)
+	publish:    Build distribution package(s) and upload (ie. to PyPi)
+	testpypi:   Build distribution package(s) and upload to test site (ie. TestPyPi)
+
+Source Code Management
+	get/dryget:     Rsync from main server
+	gethq/drygethq: Rsync from HQ server
+	put/dryput:     Rsync to main server
+	puthq/dryputhq: Rsync to HQ server
+	sync/drysync:   Rsync from/to main server
+
+Other
+	help:   This help text
