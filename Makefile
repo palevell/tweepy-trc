@@ -45,16 +45,19 @@ sync: get put
 
 testpypi:
 	@echo $(PROJECT)
-	pip3 install 'twine>=1.5.0'
+	pip3 install 'twine>=1.5.0' >/dev/null
 	python3 setup.py sdist bdist_wheel
 	twine upload --repository testpypi dist/*
-	rm -fr build/* dist/* $(PROJECT).egg-info
+	rm -fr build/* dist/* *.egg-info
 
 publish:
 	pip3 install 'twine>=1.5.0'
 	python3 setup.py sdist bdist_wheel
 	twine upload dist/*
-	rm -fr build/* dist/*  $(PROJECT).egg-info
+	rm -fr build/* dist/*  *.egg-info
+
+clean-build:
+	rm -fr build/* dist/*  *.egg-info
 
 docs:
 	cd docs && make html
