@@ -23,7 +23,12 @@ elif sys.argv[-1] == 'check':
 
 packages = ['tweepy-trc']
 
-requires = ['tweepy>=3.5.0']
+requires = [ 'munch>=2.3.0',
+             'oyaml>=0.9',
+             'pytz>=2019.2',
+             'tweepy>=3.7.0',
+             'tzlocal>=2.0.0',
+             ]
 
 # Load the package's __version__.py module as a dictionary.
 about = {}
@@ -60,5 +65,6 @@ setup(
 		"License :: OSI Approved :: MIT License",
 	],
 	python_requires='>=3.6',
+	install_requires=requires,
 )
 

@@ -2,6 +2,16 @@ Changelog
 =========
 
 
+(unreleased)
+------------
+- Bump version: 0.2.4 → 0.2.5-dev0. [Patrick A. Levell]
+- Revert "Bump version: 0.2.4 → 0.3.0-dev0" [Patrick A. Levell]
+
+  This reverts commit 67e4f2adf5c6e9d0f1c404a05bfe93f041508a1e.
+- Bump version: 0.2.4 → 0.3.0-dev0. [Patrick A. Levell]
+- Updated CHANGELOG.rst. [Patrick A. Levell]
+
+
 0.2.4 (2019-11-11)
 ------------------
 - Bump version: 0.2.4-dev0 → 0.2.4. [Patrick A. Levell]
