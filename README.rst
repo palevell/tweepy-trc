@@ -1,7 +1,5 @@
-tweepy-trc
-==========
-
-.. :version: '0.2.5'
+tweepy-trc '0.2.6-dev0'
+==================
 
 .. contents:: **Table of Contents**
     :backlinks: none
