@@ -1,4 +1,4 @@
-tweepy-trc '0.2.6-dev0'
+tweepy-trc '0.2.6'
 =======================
 
 .. contents:: **Table of Contents**
